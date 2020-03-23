@@ -1,0 +1,27 @@
+
+.add-menu-item-header {
+  font-size: 24px;
+  font-weight: bold;
+  height: 42px;
+  display: inline-block;
+}
+
+.add-menu-item-label {
+  white-space: pre;
+  font-size: 16px;
+  font-weight: bold;
+  width: 200px;
+  vertical-align: top;
+}
+
+.add-menu-item-text-input {
+    height: 32px;
+    flex-grow: 1;
+    margin: 4px;
+}
+
+.add-menu-item-textarea {
+  resize: none;
+  flex-grow: 1;
+  margin: 4px;
+}

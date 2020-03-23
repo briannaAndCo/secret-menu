@@ -1,0 +1,23 @@
+/*Defines the styling for the Menu Item Summary component*/
+
+.menu-item-header {
+  border: 1px black solid;
+  height: 100;
+}
+
+.menu-item-restaurant-logo {
+  height: 32px;
+  width: 32px;
+  float: left;
+}
+
+.menu-item-name {
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  height: 32px;
+}
+
+.menu-item-description {
+  font-style: italic;
+}

@@ -1,0 +1,23 @@
+/*Defines the styling for the Ingredients component*/
+
+.ingredients {
+  font-size: 11px;
+}
+
+.ingredients-label {
+  font-weight: bold;
+  float: left;
+  white-space: pre;
+}
+.ingredients-text {
+
+}
+
+.ingredients-warning-label {
+  font-weight: bold;
+  float: left;
+  white-space: pre;
+}
+.ingredients-warning-text {
+  font-weight: bold;
+}

@@ -1,0 +1,15 @@
+/*Defines the styling for the Order Instructions component*/
+
+.order-instructions {
+  font-size: 11px;
+}
+
+.order-instructions-label {
+  font-weight: bold;
+  float: left;
+  white-space: pre;
+}
+
+.order-instructions-text {
+
+}
